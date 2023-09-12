@@ -1,2 +1,2 @@
-# Bootstarp-Project
-Bootstrap-Project
+# Bootstarp-JavaScript-Project
+Bootstrap-JS-Project
