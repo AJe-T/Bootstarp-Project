@@ -1,0 +1,69 @@
+{
+  "contacts": [
+    {
+      "name": "Naveen",
+      "imageUrl": "https://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png",
+      "mobile": "9000804533",
+      "email": "naveen@gmail.com",
+      "company": "tcs",
+      "title": "Tech Lead",
+      "groupId": "6",
+      "id": "93dWfs3"
+    },
+    {
+      "name": "harsha",
+      "imageUrl": "data:image/png;base64,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",
+      "mobile": "9668385510",
+      "email": "harsha@gmail.com",
+      "company": "amazon",
+      "title": "se-developer",
+      "groupId": "3",
+      "id": "vkuNBA3"
+    },
+    {
+      "id": "fPjiF8a"
+    },
+    {
+      "id": "6dM-7UR"
+    },
+    {
+      "id": "AzzJq4Z"
+    },
+    {
+      "name": "teja",
+      "imageUrl": "https://w7.pngwing.com/pngs/178/595/png-transparent-user-profile-computer-icons-login-user-avatars-thumbnail.png",
+      "mobile": "666896779",
+      "email": "ricare6535@pbridal.com",
+      "company": "tcs",
+      "title": "admin",
+      "groupId": "4",
+      "id": "75viG4Q"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
